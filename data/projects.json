@@ -1,0 +1,11 @@
+{
+  "projects": [
+    {
+      "title": "Skiplist",
+      "date": "May 2021",
+      "languages": ["java","ts"],
+      "image": "../assets/skiplist.png",
+      "description": "Built two implementations of Skiplists in Java with my partner for our final project in Algorithms and Data Structures. Additionally, I wrote the corresponding animations using Typescript and React."
+    }
+  ]
+}
